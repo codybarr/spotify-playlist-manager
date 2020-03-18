@@ -1,5 +1,7 @@
 # spotify-playlist-manager
 
+There was no easy way for me to reverse the order of my playlists in Spotify so I built a simple Vue app to do it with the Spotify API.
+
 ## Project setup
 ```
 yarn install
