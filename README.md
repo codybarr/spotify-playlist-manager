@@ -1,6 +1,6 @@
 # Spotify Playlist Manager
 
-There's no easy way to reverse the order of playlists in the mobile app (and desktop can only sort by date added, not index) so I wrote a simple Vue app to do this for me.
+There's no easy way to reverse the order of playlists in the mobile app (and desktop can only sort by date added, not index) so I wrote a simple Vue app to do this for me with the Spotify API.
 
 ## Install
 
