@@ -13,7 +13,7 @@
 			<md-list-item v-for="playlist of playlists" :key="playlist.id">
 				<md-button
 					:to="`/user/playlist/${playlist.id}`"
-					class="md-primary"
+					class="md-raised md-accent"
 					>{{ playlist.name }}</md-button
 				>
 			</md-list-item>

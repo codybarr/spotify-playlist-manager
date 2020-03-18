@@ -4,7 +4,7 @@ Vue.use(Vuex)
 
 const CLIENT_ID = `77436ee871d14d1e88e340159e4d8740`
 const SCOPES = `user-read-private user-read-email playlist-read-private playlist-modify-private playlist-modify-public`
-const REDIRECT_URI = `http://localhost:8081`
+const REDIRECT_URI = `http://localhost:8080`
 
 const ACCESS_TOKEN_REGEX = /\/access_token=([^&]+)&/
 
